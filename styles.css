@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+.header{
+    text-align: center;
+    width: 1510px;
+    height: 500px; 
+}
+.nav{
+    display: inline-block;
+}
+.nav a{
+    display: inline-block;
+    background-color:black;
+    padding: .75em;
+}
+
+.navh{
+    list-style: none;
+    text-align: center;
+    padding: 0px;
+}
+
+a{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+}
+
+a:hover{
+    color: orange;
+
+}
+
+img{
+    text-align: left;
+    width: 300px;
+    height: 200px;
+} 
+
+.action:hover{
+    color: orange;
+    padding: 0em;
+}
+.action{
+    display: inline-block;
+    color: black;
+    list-style-type: none;
+    margin: 10px;
+}
+.footer{
+    text-align: center;
+    border-top: 1px solid orange;
+    padding: 10px;
+}
+dt{
+    margin: 10px;
+}
+dd{
+    border-bottom: 1px solid orange;
+}
+.P1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-bottom: 1px solid orange;
+}
+h1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h2{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h3{
+    font-family: "comic Sans MS", cursive, sans-serif;
+}
+p{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+body{
+    background-color: gray;
+    color: black;
+    text-align: center;
+}
+.Learn ul{
+    list-style-type: none;
+}
